@@ -6,6 +6,7 @@ const Song = ({currentSong}) => {
             <img src={currentSong.cover} alt="studio album"></img>
             <h2>{currentSong.name}</h2>
             <h3>{currentSong.arti}</h3>
+            <br></br>
             <h3>{currentSong.artist}</h3>
         </div>
     );
