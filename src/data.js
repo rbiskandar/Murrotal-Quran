@@ -7,6 +7,7 @@ function chillHop() {
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
             audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
+            arti: "Pembukaan",
             color: ["#EB4A4B", "#5C5250"],
             id: uuidv4(),
             active: true
