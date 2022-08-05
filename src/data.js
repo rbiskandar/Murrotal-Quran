@@ -6,7 +6,7 @@ function chillHop() {
             name: "Al-Fatiha",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=17087",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/001.mp3",
             color: ["#EB4A4B", "#5C5250"],
             id: uuidv4(),
             active: true
@@ -15,7 +15,7 @@ function chillHop() {
             name: "Al-Baqara",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=17089",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/002.mp3",
             color: ["#EB4A4B", "#5C5250"],
             id: uuidv4(),
             active: false
@@ -24,7 +24,7 @@ function chillHop() {
             name: "Aal-Imran",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=16063",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/003.mp3",
             color: ["#3DBBA3", "#E64732"],
             id: uuidv4(),
             active: false
@@ -33,7 +33,7 @@ function chillHop() {
             name: "An-Nisaa",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=16071",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/004.mp3",
             color: ["#3DBBA3", "#E64732"],
             id: uuidv4(),
             active: false
@@ -42,7 +42,7 @@ function chillHop() {
             name: "Al-Ma'ida",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=15237",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/005.mp3",
             color: ["#2B3434", "#8E4D2A"],
             id: uuidv4(),
             active: false
@@ -51,7 +51,7 @@ function chillHop() {
             name: "Al-An'am",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=13092",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/006.mp3",
             color: ["#84BEA1", "#615279"],
             id: uuidv4(),
             active: false
@@ -60,7 +60,7 @@ function chillHop() {
             name: "Al-A'raf",
             cover: "https://ia902508.us.archive.org/30/items/cover_202208/cover.JPG",
             artist: "Syaikh Misyari Rasyid Alafasy",
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=12124",
+            audio: "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/007.mp3",
             color: ["#0C2224", "#422016"],
             id: uuidv4(),
             active: false
