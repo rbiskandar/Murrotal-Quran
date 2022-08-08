@@ -26,6 +26,7 @@ const LibrarySong = ({song, songs, setCurrentSong, id, audioRef, isPlaying, setS
             <img src={song.cover} alt="studio album"></img>
             <div className="song-description">
                 <h3>{song.name}</h3>
+                <h4>{song.arti}</h4>
                 <h4>{song.artist}</h4>
             </div>
         </div>
